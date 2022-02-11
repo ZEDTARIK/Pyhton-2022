@@ -1,5 +1,13 @@
-FR:
-Ecrire un Programme qui demande à l'utilisateur de taper la LARGEUR et la LONGUEUR d'un rectangle et qui en Affiche Périmètre et la Surface 
 
-EN:
-Write a program that asks the user to type in the WIDTH and LENGTH of a rectangle and displays its perimeter and area
+01 - SurefacePeremetre : 
+
+    FR:
+        Ecrire un Programme qui demande à l'utilisateur de taper la LARGEUR et la LONGUEUR d'un rectangle et qui en Affiche Périmètre et la Surface 
+    EN:
+        Write a program that asks the user to type in the WIDTH and LENGTH of a rectangle and displays its perimeter and area
+
+    02-Sphere
+    FR:
+        Ecrire un Programme qui demande à l'utilisateur de taper le rayon d'une sphère , puis calcule et affiche son volume
+    EN:
+        Write a program that asks the user to type in the radius of a sphere, then calculates and displays its volume
